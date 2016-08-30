@@ -1,2 +1,0 @@
-# LSharp
-LSharp Assemblies
